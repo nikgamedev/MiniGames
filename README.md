@@ -1,2 +1,2 @@
 # MiniGames
- This is webgl version of "Mini-Games".
+ Play on web from here https://nikgamedev.github.io/MiniGames/
